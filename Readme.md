@@ -1,10 +1,6 @@
 <h1 align="center">👋 Mahdi Afshari — Self-Paced Back-End Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Self-Paced+Back-End+Developer;PHP+•+C%23+•+JavaScript;Building+Reliable+%26+Scalable+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://t.me/CobraMahdi">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
